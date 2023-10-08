@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sionroberts1
-- 👀 I’m interested in ML, NLP and app development.
-- 🌱 I’m currently learning ... App development.
 - 📫 How to reach me ... email; sionrobertss@hotmail.co.uk
 
 <!---
